@@ -17,13 +17,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BhoomiGohil/React-Form-Handler.git
+   git clone https://github.com/BhoomiGohil/Scrimba-React-Form-Handler.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd React-Form-Handler
+   cd Scrimba-React-Form-Handler
    ```
 
 3. Install the dependencies:
